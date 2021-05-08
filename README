@@ -1,0 +1,16 @@
+Hello and welcome to my dog scenario game. It is the first thing I have made completely from scratch in both Python and in programming more generally.(1) 
+
+The objective is to ensure that your dog remains healthy for a week. Your dog starts off with various core statistics. These are as follows:
+sleepiness: 50
+hunger: 50
+playfulness: 50 
+comfort: 50 
+hydration: 50
+
+For every question that you asnwer, these statistics will change depending on the answers you provide.
+To ensure that your dog reamins healthy throughout the week, each of your dog's statistics must be below 85 and avove 15.
+
+You will be asked 5 questions, one for each day that you are required to look after your dog. If you mange to answer all 5 questions, whilst maintaing your dog's statistics within the healthy range, then you will have completed your objective. 
+
+Notes
+1)  This is a simple terminal-based text based scenario     game. I created it so     that I could put my           learning of for and while loops,    if stamtement       and functions into practice. 
